@@ -1,7 +1,7 @@
 <h1 align="center"><b>¡Hola! Soy Ezequiel Baamonde</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 	<a href="https://github.com/ezequielbaamonde">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Bienvenidos+a+mi+página+de+Github;Estudiante+de+Sistemas;Web+Developer&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Bienvenidos+a+mi+página+de+GitHub;Estudiante+de+Sistemas;Web+Developer&center=true&width=380&height=45">
 	</a>
 </p>
 <hr>
