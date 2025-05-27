@@ -9,7 +9,7 @@
 <pre>
 💻 Técnico en Informática Profesional y Personal
 🎓 Cursando el segundo año de la carrera "Licenciatura en Sistemas" en la UNLP
-📝 Tengo mucho interés en seguir aprendiendo desarrollo FULL STACK
+📝 Intereses: Desarrollo Full Stack
 🔭 Trabajando como IT HELP DESK SUPPORT L1 en <b>Núcleo IT</b>
 🤔 Dispuesto a escuchar <b>nuevas oportunidades de trabajo</b>, <a href="https://www.linkedin.com/in/baamonde-ezequiel/overlay/1742847895149/single-media-viewer/?profileId=ACoAADseCZoBaiggXghgtH3zOuMHocDdSrWU--Y" target="_blank">CURRICULUM</a>
 </pre>
