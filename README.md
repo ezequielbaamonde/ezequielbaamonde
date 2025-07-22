@@ -12,6 +12,7 @@
 📝 Intereses: Desarrollo Full Stack
 🔭 Trabajando como IT HELP DESK SUPPORT L1 en <b>Núcleo IT</b>
 🤔 Dispuesto a escuchar <b>nuevas oportunidades de trabajo</b>, <a href="https://www.linkedin.com/in/baamonde-ezequiel/overlay/1748380095369/single-media-viewer/?profileId=ACoAADseCZoBaiggXghgtH3zOuMHocDdSrWU--Y" target="_blank">CURRICULUM</a>
+🔗 Te invito a ver <b>mis proyectos</b> en mi <a href="https://flourishing-biscotti-905fd1.netlify.app" target="_blank">PORTAFOLIO WEB</a>
 </pre>
 <hr>
 
